@@ -1,0 +1,19 @@
+body{
+    font-size: 1.5em;
+    margin-left: 50px;
+}
+
+ul h2{
+    color: rgb(163, 45, 45);
+
+}
+
+li p{
+    font-weight: 600;
+
+}
+
+ul{
+
+    margin-left: 80px;
+}
